@@ -42,5 +42,5 @@
 ---
 
 ### 📫 Contato
-*   **LinkedIn:** [Seu Link do LinkedIn Aqui]
+*   **LinkedIn:** www.linkedin.com/in/lorena-denadai-17a39037b
 *   **Localização:** Espírito Santo - Brasil
