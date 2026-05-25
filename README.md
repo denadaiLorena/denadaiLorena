@@ -44,6 +44,8 @@
 ---
 
 ### 📊 Estatísticas do GitHub
+![Estatísticas de Lorena](https://github-readme-stats.vercel.app/api?username=denadaiLorena&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=denadaiLorena&layout=compact&theme=dracula)
 
 ---
 
